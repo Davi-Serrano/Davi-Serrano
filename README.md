@@ -1,6 +1,6 @@
 <h1>Olá, eu sou o Davi</h1>
 
-Meu nome é Davi Serrano sou Desenvolvedor Front-End
+<p>Meu nome é Davi Serrano sou Desenvolvedor Front-End</p>
 
 <h3>Stacks</h3> 
 
