@@ -1,6 +1,6 @@
 <h1>Olá, eu sou o Davi</h1>
 
-<p>Meu nome é Davi Serrano sou Desenvolvedor Front-End</p>
+<p>Sou uma pessoa que ama usar a programação para resolver problemas por mais simples que sejam, tenho uma quedinha por JavaScript, mas sou capaz de progamar em qualquer linguagem de programação, na faculdade já tive contato com JAVA e C, posso exercer as funções de Desenvolvedor Front-End ou Desenvolvedor Back-End.</p>
 
 <h3>Stacks</h3> 
 
